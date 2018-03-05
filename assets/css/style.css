@@ -1,0 +1,22 @@
+h1 {
+	background: darkred;
+	color: white;
+}
+
+h2 {
+	background: darkred;
+	color: white;
+}
+
+.startgame {
+	background: darkred;
+	color: white;
+}
+
+body {
+	background: darkblue;
+	background-image: url("tb12.jpg");
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
