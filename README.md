@@ -1,2 +1,2 @@
 # TriviaGame
-Trivia Game
+A trivial game based on Tom Brady statistics and facts
